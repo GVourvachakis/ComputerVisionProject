@@ -1,7 +1,7 @@
-# Project Description:
+# Project Description
 The provided code is part of a Computer Vision project focusing on Image Recognition. The primary goal of this project is to accurately classify objects in images using pre-trained machine learning models. The code leverages the ImageAI library's capabilities for image classification. In particular, the MobileNetV2 model is utilized for this purpose.
 
-# Functionalities:
+# Functionalities
 
 ## Image Classification: 
 The project's main functionality is to classify images into various categories or labels. Given an input image and a pre-trained MobileNetV2 model, the code predicts the most probable labels for the objects present in the image. The top predictions are displayed along with their corresponding probabilities.
@@ -9,7 +9,7 @@ The project's main functionality is to classify images into various categories o
 ## Flexibility: 
 The code provides flexibility by allowing users to specify the path to the input image, the path to the pre-trained MobileNetV2 model, the desired model type, and the number of top predictions to display. This enables users to experiment with different images and models.
 
-# Good Programming and Machine Learning Practices:
+# Good Programming and Machine Learning Practices
 
 ## Modular Code: 
 The code is well-organized and follows a modular structure. The image classification functionality is encapsulated in the classify_image function, which enhances code readability and reusability.
