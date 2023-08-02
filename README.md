@@ -35,4 +35,6 @@ While the code does not have comments within the provided snippet, it is general
 ## Version Control: 
 If this code is part of a larger project, using version control (e.g., Git) to track changes, collaborate with others, and maintain a history of revisions would be recommended.
 
-In conclusion, the project focuses on image recognition using the MobileNetV2 model provided by the ImageAI library. The code exhibits good programming practices by emphasizing modularity, error handling, and readability. It allows users to classify images into various labels and provides insights into the likelihood of each prediction.
+# Conclusion 
+
+The project focuses on image recognition using the MobileNetV2 model provided by the ImageAI library. The code exhibits good programming practices by emphasizing modularity, error handling, and readability. It allows users to classify images into various labels and provides insights into the likelihood of each prediction.
